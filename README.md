@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&width=600&lines=Junior+Software+Developer;C%2B%2B+%26+Python+Learner;Open+to+new+opportunities;Gamer+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
 #  About Me:
- Junior Software Developer в начале пути.<br> Изучаю: C++ & Python | Базы данных<br> Драйв: Кодить, учиться, развиваться.<br> Open to work: Ищу команду, с которой мы создадим крутой продукт .<br>
+### Junior Software Developer в начале пути.<br> Изучаю: C++ & Python | Базы данных<br> Драйв: Кодить, учиться, развиваться.<br> Open to work: Ищу команду, с которой мы создадим крутой продукт .<br>
 # Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1001486916014833674) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansideee) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vansideee) [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199348465163/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=strakovichvanya@gmail.com)
 
