@@ -1,6 +1,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&width=600&lines=Junior+Software+Developer;C%2B%2B+%26+Python+Learner;Open+to+new+opportunities+🚀;Gamer+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
-
 #  About Me:
  Junior Software Developer в начале пути.<br> Изучаю: C++ & Python | Базы данных<br> Драйв: Кодить, учиться, развиваться.<br> Open to work: Ищу команду, с которой мы создадим крутой продукт .<br>
 # Socials:
